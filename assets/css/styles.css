@@ -1033,7 +1033,7 @@ select {
     padding-top: var(--spacing-lg);
     border-top: 1px solid var(--color-border);
     font-size: var(--font-size-sm);
-    color: var(--color-text-light);
+    color: var(--color-text-medium);
 }
 
 
